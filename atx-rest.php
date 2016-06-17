@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ATX REST Menus
+Plugin Name: ATX REST Examples
 Plugin URI: http://ryan.hoover.ws
 Description: Provides our demo endpoints for the REST API
 Version: 0.1
